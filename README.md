@@ -5,6 +5,7 @@ Pre-requisite:
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - [Kubectl (Kube Control)](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux)
 - [Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
+- [NodeJS](https://nodejs.org/en/download/package-manager/)
 
 You will be orchestrating a number of services in a microservice fashion! By adopting the api gateway pattern: https://microservices.io/patterns/apigateway.html
 
